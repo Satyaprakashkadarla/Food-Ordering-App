@@ -43,7 +43,7 @@ Install my-project with npm
 
 ```bash
  Copy code
-git clone https://github.com/007AnupamSharma/Food_Ordering_App.git
+git clone https://github.com/Satyaprakashkadarla/Food_Ordering_App.git
 cd Food_Ordering_App
 Install dependencies:
 
